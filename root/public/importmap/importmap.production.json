@@ -1,0 +1,8 @@
+{
+    "imports": {
+      "@mp/root-config": "https://minicurso-mfe.sfo3.digitaloceanspaces.com/mp-root-config.js",
+      "@mp/core": "https://minicurso-mfe.sfo3.digitaloceanspaces.com/mp-core.js",
+      "@mp/ds": "https://minicurso-mfe.sfo3.digitaloceanspaces.com/mp-ds.js",
+      "@mp/list": "https://minicurso-mfe.sfo3.digitaloceanspaces.com/mp-list.js"
+    }
+  }

@@ -1,0 +1,8 @@
+{
+    "imports": {
+      "@mp/root-config": "//localhost:9000/mp-root-config.js",
+      "@mp/core": "//localhost:9001/mp-core.js",
+      "@mp/ds": "//localhost:9002/mp-ds.js",
+      "@mp/list": "//localhost:9003/mp-list.js"
+    }
+  }
